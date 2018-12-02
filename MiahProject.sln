@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Macbeth", "Macbeth", "{6F95EA0D-994F-48AE-A38B-74E4A79B5CCC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6399E411-C595-4310-B010-2E4D2DDB778E}"
+	ProjectSection(SolutionItems) = preProject
+		Index.html = Index.html
+		style.css = style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{D9375EC7-5737-4F3D-9496-4D0B428FECED}"
+	ProjectSection(SolutionItems) = preProject
+		Scripts\ChangeBanner.js = Scripts\ChangeBanner.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93CB8F3E-5419-47B5-BF18-45ED2B55AA3C}
+	EndGlobalSection
+EndGlobal
