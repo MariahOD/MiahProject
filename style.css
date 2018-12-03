@@ -4,26 +4,57 @@
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 0px;
 }
 
 .banner {
+
     background-repeat: no-repeat;
     background-size: 150px;
 }
 
+.borderless {
+    border: solid;
+    padding: 0px;
+    margin: 0px;
+    background-color: darkcyan;
+    position: relative;
+    display: inline-block;
+    height: 250px;
+}
 
+.scene {
+    background-color: darkcyan;
+    width: 200px;
+    border: none;
+    color: white;
+}
+
+    .scene:hover {
+        background-color: darkblue;
+    }
+
+.act {
+    border: none;
+}
+
+.contents-flex-container {
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    align-content: stretch;
+}
 
 .dropdown-div {
     position: relative;
     display: inline-block;
-    width: 100%
+    width: 100px
 }
 
 
 
 .dropdown-button {
-    background-color: darkcyan;
+    background-color: darkred;
     color: white;
     padding: 10px 10px;
     font-size: 16px;
@@ -61,35 +92,9 @@ table, th, td {
 }
 
 .dropdown-div:hover .dropdown-button {
-    background-color: midnightblue;
+    background-color: darkred;
 }
 
-.sidenav {
-    height: 100%;
-    width: 100%;
-    z-index: 1;
-    background-color: #111;
-    overflow-x: hidden;
-    padding-top: 20px;
-}
-
-.sidenav a, .dropdown-btn {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 20px;
-    color: #818181;
-    display: block;
-    border: none;
-    background: none;
-    width: 100%;
-    text-align: left;
-    cursor: pointer;
-    outline: none;
-}
-
-.sidenav a:hover, .dropdown-btn:hover {
-    color: #f1f1f1;
-}
 
 .main {
     margin-left: 200px; 
@@ -122,5 +127,5 @@ table, th, td {
 }
 
 .TopNav {
-    background-color: darkcyan;
+    background-color: darkred;
 }
