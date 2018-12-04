@@ -5,6 +5,18 @@ table, th, td {
     border: 0px;
 }
 
+h1 {
+    color: grey;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 300%;
+}
+
+p {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+}
+
 .banner {
     background-repeat: no-repeat;
     background-size: 150px;
