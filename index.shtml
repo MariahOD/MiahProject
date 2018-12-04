@@ -10,8 +10,8 @@
     <title></title>
 </head>
 <body>
-    <!--#include virtual="/Contents/banner.html" -->
-    <!--#include virtual="/Contents/navbar.html" -->
+    <!--#include virtual="/Contents/banner.txt" -->
+    <!--#include virtual="/Contents/navbar.txt" -->
  
     <div class="contents-flex-container">
         <table class="borderless" align="center">
