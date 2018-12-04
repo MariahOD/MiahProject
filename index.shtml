@@ -10,94 +10,55 @@
     <title></title>
 </head>
 <body>
-    <table style="width:100%" height="900">
-        <tr>
-            <th class="banner" colspan="2" height="20%" background="Images/dagger.jpg"> <h1>MACBETH</h1></th>
-        </tr>
-        <tr>
-            <th colspan="2" height="5%" class="TopNav">
-                <div class="flex-container">
-                    <div class="dropdown-div">
-                        <button class="dropdown-button">Home</button>
-                    </div>
+    <!--#include virtual="/Contents/banner.html" -->
+    <!--#include virtual="/Contents/navbar.html" -->
+ 
+    <div class="contents-flex-container">
+        <table class="borderless" align="center">
+            <tr><td class="act"><b>ACT I</b></td></tr>
+            <tr><td class="scene">Scene I</td></tr>
+            <tr><td class="scene">Scene II</td></tr>
+            <tr><td class="scene">Scene III</td></tr>
+            <tr><td class="scene">Scene IV</td></tr>
+            <tr><td class="scene">Scene V</td></tr>
+            <tr><td class="scene">Scene VI</td></tr>
+            <tr><td class="scene">Scene VII</td></tr>
+        </table>
+        <table class="borderless" align="center">
+            <tr><td class="act"><b>ACT II</b></td></tr>
+            <tr><td class="scene">Scene I</td></tr>
+            <tr><td class="scene">Scene II</td></tr>
+            <tr><td class="scene">Scene III</td></tr>
+            <tr><td class="scene">Scene IV</td></tr>
+        </table>
+        <table class="borderless" align="center">
+            <tr><td class="act"><b>ACT III</b></td></tr>
+            <tr><td class="scene">Scene I</td></tr>
+            <tr><td class="scene">Scene II</td></tr>
+            <tr><td class="scene">Scene III</td></tr>
+            <tr><td class="scene">Scene IV</td></tr>
+            <tr><td class="scene">Scene V</td></tr>
+            <tr><td class="scene">Scene VI</td></tr>
+        </table>
+        <table class="borderless" align="center">
+            <tr><td class="act"><b>ACT IV</b></td></tr>
+            <tr><td class="scene">Scene I</td></tr>
+            <tr><td class="scene">Scene II</td></tr>
+            <tr><td class="scene">Scene III</td></tr>
+        </table>
+        <table class="borderless" align="center">
+            <tr><td class="act"><b>ACT I</b></td></tr>
+            <tr><td class="scene">Scene I</td></tr>
+            <tr><td class="scene">Scene II</td></tr>
+            <tr><td class="scene">Scene III</td></tr>
+            <tr><td class="scene">Scene IV</td></tr>
+            <tr><td class="scene">Scene V</td></tr>
+            <tr><td class="scene">Scene VI</td></tr>
+            <tr><td class="scene">Scene VII</td></tr>
+            <tr><td class="scene">Scene VIII</td></tr>
+        </table>
+    </div>
 
-                    <div class="dropdown-div">
-                        <button class="dropdown-button">Dramatis personæ</button>
-                    </div>
 
-                    <div class="dropdown-div">
-                        <button class="dropdown-button">Contents</button>
-                        <div class="dropdown-content">
-                            <a href="https://ancientbrain.com/help.php">Act I</a>
-                            <a href="https://ancientbrain.com/ai.php">Act II</a>
-                            <a href="https://ancientbrain.com/help.php">Act III</a>
-                            <a href="https://ancientbrain.com/ai.php">Act IV</a>
-                            <a href="https://ancientbrain.com/help.php">Act V</a>
-                        </div>
-                    </div>
-                    <div class="dropdown-div">
-                        <button class="dropdown-button">Info</button>
-                    </div>
-                </div>
-            </th>
-        </tr>
-        <tr>
-            <td class="main-content" width="88%">
-                <div class="contents-flex-container">
-                    <table class="borderless" align="center">
-                        <tr><td class="act"><b>ACT I</b></td></tr>
-                        <tr><td class="scene">Scene I</td></tr>
-                        <tr><td class="scene">Scene II</td></tr>
-                        <tr><td class="scene">Scene III</td></tr>
-                        <tr><td class="scene">Scene IV</td></tr>
-                        <tr><td class="scene">Scene V</td></tr>
-                        <tr><td class="scene">Scene VI</td></tr>
-                        <tr><td class="scene">Scene VII</td></tr>
-                    </table>
-                    <table class="borderless" align="center">
-                        <tr><td class="act"><b>ACT II</b></td></tr>
-                        <tr><td class="scene">Scene I</td></tr>
-                        <tr><td class="scene">Scene II</td></tr>
-                        <tr><td class="scene">Scene III</td></tr>
-                        <tr><td class="scene">Scene IV</td></tr>
-                    </table>
-                    <table class="borderless" align="center">
-                        <tr><td class="act"><b>ACT III</b></td></tr>
-                        <tr><td class="scene">Scene I</td></tr>
-                        <tr><td class="scene">Scene II</td></tr>
-                        <tr><td class="scene">Scene III</td></tr>
-                        <tr><td class="scene">Scene IV</td></tr>
-                        <tr><td class="scene">Scene V</td></tr>
-                        <tr><td class="scene">Scene VI</td></tr>
-                    </table>
-                    <table class="borderless" align="center">
-                        <tr><td class="act"><b>ACT IV</b></td></tr>
-                        <tr><td class="scene">Scene I</td></tr>
-                        <tr><td class="scene">Scene II</td></tr>
-                        <tr><td class="scene">Scene III</td></tr>
-                    </table>
-                    <table class="borderless" align="center">
-                        <tr><td class="act"><b>ACT I</b></td></tr>
-                        <tr><td class="scene">Scene I</td></tr>
-                        <tr><td class="scene">Scene II</td></tr>
-                        <tr><td class="scene">Scene III</td></tr>
-                        <tr><td class="scene">Scene IV</td></tr>
-                        <tr><td class="scene">Scene V</td></tr>
-                        <tr><td class="scene">Scene VI</td></tr>
-                        <tr><td class="scene">Scene VII</td></tr>
-                        <tr><td class="scene">Scene VIII</td></tr>
-                    </table>
-                </div>
-                <!--include virtual="/Contents/Homepagecontent.shtml" -->
-
-            </td>
-        </tr>
-        <tr>
-            <th colspan="2" height="5%">FOOTER MENU</th>
-        </tr>
-    </table>
-    <script language="javascript" type="text/javascript">
-        setEventListeners();
-    </script>
 </body>
 </html>
