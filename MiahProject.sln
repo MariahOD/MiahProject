@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6399E411-C595-4310-B010-2E4D2DDB778E}"
 	ProjectSection(SolutionItems) = preProject
 		Index.html = Index.html
+		index.shtml = index.shtml
 		style.css = style.css
 	EndProjectSection
 EndProject
