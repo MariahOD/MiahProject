@@ -9,18 +9,18 @@
     <meta charset="utf-8" />
     <title></title>
 </head>
-<body style="background-color:powderblue;">
+<body style="background-color:white;">
     <style>
-        h1 {
-            color: blue;
-            font-family: verdana;
-            font-size: 300%;
-        }
-        p  {
-            color: red;
-            font-family: courier;
-            font-size: 160%;
-        }
+                h1 {
+                    color: grey;
+                    font-family: "Lucida Console", Monaco, monospace;
+                    font-size: 300%;
+                }
+                p  {
+                    color: red;
+                    font-family: courier;
+                    font-size: 160%;
+                }
     </style>
     <!--#include virtual="Contents/banner.html" -->
     <!--#include virtual="Contents/navbar.html" -->
