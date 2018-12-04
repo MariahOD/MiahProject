@@ -14,7 +14,7 @@
     <!--#include virtual="Contents/banner.html" -->
     <!--#include virtual="Contents/navbar.html" -->
 
-<body style="background-color:grey;">
+<body style="background-color:lightgrey;">
 
     <font size="2" face="Courier New">
 
