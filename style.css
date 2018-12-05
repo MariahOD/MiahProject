@@ -98,8 +98,8 @@ blockquote {
 .button {
     background-color: #800000;
     border: none;
-    color: white
-    text-align: center;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    color: white text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 10px;
