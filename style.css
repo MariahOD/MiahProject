@@ -84,6 +84,11 @@ blockquote {
     background-color:white;
 }
 
+
+.navbar {
+    background-color: darkred;
+}
+
 .borderless {
     border: 0px;
     padding: 30px;
@@ -120,8 +125,7 @@ blockquote {
 .dropdown-div {
     position: relative;
     display: inline-block;
-    width: 100px;
-    background-color: darkred;
+    width: 100px
 }
 
 
@@ -203,7 +207,7 @@ blockquote {
 
 .borderless-flex {
     border: none;
-    width: 500px;
+    width: 200px;
     position: relative;
     display: inline-block;
 }
