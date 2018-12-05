@@ -6,9 +6,9 @@ table, th, td {
 }
 
 h1 {
-    color: maroon;
-    font-family: "Lucida Console", Monaco, monospace;
-    font-size: 400%;
+    font-family: 'Harabara Bold', Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
 }
 
 h2 {
@@ -45,6 +45,13 @@ blockquote {
     font-size: 100%;
     padding: 50px;
 }
+
+@font-face {
+    font-family: "Cracked";
+    src: url("Fonts/ordeal-eroded-ffp-webfont.eot");
+    src: url("Fonts/ordeal-eroded-ffp-webfont.woff") format("woff"), url("ordeal-eroded-ffp-webfont.otf") format("opentype"), url("Fonts/ordeal-eroded-ffp-webfont.svg#filename") format("svg");
+}
+
 
 .banner {
     background-repeat: no-repeat;
