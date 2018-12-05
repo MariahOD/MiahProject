@@ -7,7 +7,9 @@ function getImage()
     // LINKS TO PUBLIC DOMAIN / CREATIVE COMMONS IMAGE SOURCES
     // https://www.wpclipart.com/famous/writer/Shakespheare/Shakespeare_lineart.png.html
     // http://chittagongit.com/icon/shakespeare-icon-19.html
-    //
+    // https://www.kisspng.com/png-large-black-witch-hat-transparent-png-clipart-22925/
+    // https://dumielauxepices.net/wallpaper-76131
+    // http://www.iconarchive.com/show/halloween-icons-by-icons8/witch-icon.html
 
 
     var index = Math.floor(Math.random() * images.length);
