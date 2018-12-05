@@ -97,13 +97,15 @@
         <iframe width="640" height="360" style="padding:10px;" src="https://www.youtube.com/embed/qfnUq2_0FOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <iframe src="https://player.vimeo.com/video/242449077?title=0&byline=0&portrait=0" width="640" height="360" style="padding:10px;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-        <footer>
-            <p>Posted by: Mariah</p>
+
+        <div class="footer">
+            <p><p>Posted by: Mariah bla bla</p>
             <p>
                 Contact information: <a href="mailto:someone@example.com">
                     odoherm2@tcd.ie
-                </a>.
-            </p>
-        </footer>
+                </a>
+            </p></p>
+        </div>
+        
 </body>
 </html>
