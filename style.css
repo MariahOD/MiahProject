@@ -163,3 +163,7 @@ p {
     position: relative;
     display: inline-block;
 }
+
+.video-media-youtube-inner {
+    display: flex;
+}
