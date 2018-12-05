@@ -94,9 +94,9 @@
             </table>
         </div>
 
-        <iframe width="640" height="360" style="padding:10px;" src="https://www.youtube.com/embed/qfnUq2_0FOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://player.vimeo.com/video/242449077?title=0&byline=0&portrait=0" width="640" height="360" style="padding:10px;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+        <div class="video-container">
+            <iframe width="640" height="360" style="padding:10px;" src="https://www.youtube.com/embed/qfnUq2_0FOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
 
 </body>
 </html>
