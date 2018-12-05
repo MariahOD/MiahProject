@@ -41,7 +41,7 @@ p {
 }
 
     .scene:hover {
-        background-color: white;
+        color: black;
     }
 
 .act {
@@ -93,8 +93,7 @@ p {
     }
 
         .dropdown-content a:hover {
-    color: white;
-
+            background-color: white;
         }
 
 
