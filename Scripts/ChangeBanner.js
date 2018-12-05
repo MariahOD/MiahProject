@@ -2,7 +2,8 @@ function getImage()
 {
 
     var images = [
-        "Images/dagger.jpg", "Images/witch.jpg", "Images/hat2.jpg" ]
+        "Images/dagger.jpg", "Images/witch.jpg", "Images/hat2.jpg"
+    ];
 
     var index = Math.floor(Math.random() * images.length);
 
