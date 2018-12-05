@@ -99,11 +99,12 @@ blockquote {
     background-color: darkred;
     border: none;
     color: white;
+    font-family: "Lucida Console", Monaco, monospace;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 10px;
-    margin: 2px 1px;
+    margin: 0px 0px;
 }
 
 .ToggleButton {
