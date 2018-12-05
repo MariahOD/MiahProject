@@ -17,20 +17,16 @@ p {
     font-size: 100%;
 }
 
-ul.nav {
-    background-color: #00ff7f;
-    border: 1px solid #999;
-    height: 20px; /*This is an example*/
-    margin: 0px auto;
-    width: 400px;
-}
 
 .banner {
     background-repeat: no-repeat;
-    background-size: 200px;
+    background-size: 180px;
     background-color:white;
 }
 
+.TopNav {
+    background-color: darkred;
+}
 
 .borderless {
     border: solid;
@@ -145,9 +141,6 @@ ul.nav {
     background-color: darkred;
 }
 
-.TopNav {
-    background-color: darkred;
-}
 
 .borderless-flex {
     border: none;
