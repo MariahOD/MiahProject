@@ -2,8 +2,7 @@ function getImage()
 {
 
     var images = [
-        "Images/dagger.jpg", "Images/witch.jpg", "Images/hat2.jpg", "<a href="https://img.clipartxtras.com/594acaa07f3ce948a317b7c873bdd401_download-raven-free-png-photo-images-and-clipart-freepngimg-raven-clipart-png_370-322.png"</a>"
-    ];
+        "Images/dagger.jpg", "Images/witch.jpg", "Images/hat2.jpg" ]
 
     var index = Math.floor(Math.random() * images.length);
 
