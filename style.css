@@ -9,6 +9,10 @@ table, th, td {
     font-family: "Cracked";
     src: url(Fonts/ordeal-eroded-ffp-webfont.woff);
 }
+@font-face {
+    font-family: "Quote";
+    src: url(Fonts/dancingscript-regular-webfont.woff);
+}
 
 h1 {
     font-family: "Cracked", Arial, sans-serif;
@@ -29,6 +33,20 @@ h3 {
     font-family: "Lucida Console", Monaco, monospace;
     font-size: 200%;
     padding: 10px;
+}
+
+h4 {
+    color: white;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 200%;
+    padding: 10px;
+}
+
+h6 {
+    color: grey;
+    font-family: "Quote", Monaco, monospace;
+    font-size: 300%;
+    padding: 20px;
 }
 
 p {
@@ -52,17 +70,6 @@ blockquote {
     padding: 50px;
 }
 
-@font-face {
-    font-family: "Quote";
-    src: url(Fonts/dancingscript-regular-webfont.woff);
-}
-
-h6 {
-    color: grey;
-    font-family: "Quote", Monaco, monospace;
-    font-size: 300%;
-    padding: 20px;
-}
 
 .banner {
     background-repeat: no-repeat;

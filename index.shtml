@@ -50,7 +50,7 @@
 
         <div class="contents-flex-container">
             <table class="borderless" align="center">
-                <tr><td class="act"><h2>ACT I</h2></td></tr>
+                <tr><td class="act"><h4>ACT I</h4></td></tr>
                 <tr><td class="scene">Scene I</td></tr>
                 <tr><td class="scene">Scene II</td></tr>
                 <tr><td class="scene">Scene III</td></tr>
@@ -60,14 +60,14 @@
                 <tr><td class="scene">Scene VII</td></tr>
             </table>
             <table class="borderless" align="center">
-                <tr><td class="act"><h2>ACT II</h2></td></tr>
+                <tr><td class="act"><h4>ACT II</h4></td></tr>
                 <tr><td class="scene">Scene I</td></tr>
                 <tr><td class="scene">Scene II</td></tr>
                 <tr><td class="scene">Scene III</td></tr>
                 <tr><td class="scene">Scene IV</td></tr>
             </table>
             <table class="borderless" align="center">
-                <tr><td class="act"><h2>ACT III</h2></td></tr>
+                <tr><td class="act"><h4>ACT III</h4></td></tr>
                 <tr><td class="scene">Scene I</td></tr>
                 <tr><td class="scene">Scene II</td></tr>
                 <tr><td class="scene">Scene III</td></tr>
@@ -76,13 +76,13 @@
                 <tr><td class="scene">Scene VI</td></tr>
             </table>
             <table class="borderless" align="center">
-                <tr><td class="act"><h2>ACT IV</h2></td></tr>
+                <tr><td class="act"><h4>ACT IV</h4></td></tr>
                 <tr><td class="scene">Scene I</td></tr>
                 <tr><td class="scene">Scene II</td></tr>
                 <tr><td class="scene">Scene III</td></tr>
             </table>
             <table class="borderless" align="center">
-                <tr><td class="act"><h2>ACT V</h2></td></tr>
+                <tr><td class="act"><h4>ACT V</h4></td></tr>
                 <tr><td class="scene">Scene I</td></tr>
                 <tr><td class="scene">Scene II</td></tr>
                 <tr><td class="scene">Scene III</td></tr>
