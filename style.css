@@ -98,6 +98,16 @@ blockquote {
     height: 300px;
 }
 
+.dp {
+    border: 0px;
+    padding: 30px;
+    margin: 20px;
+    background-color: darkred;
+    position: relative;
+    display: inline-block;
+    height: 100%;
+}
+
 .scene {
     background-color: darkred;
     width: 200px;
