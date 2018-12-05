@@ -2,14 +2,13 @@ function getImage()
 {
 
     var images = [
-        "Images/dagger.jpg", "Images/witch.jpg", "Images/hat2.jpg, Images/feather.jpg"
+        "Images/dagger.jpg", "Images/witch.jpg", "Images/hat2.jpg", "Images/feather.jpg"
     ];
     // LINKS TO PUBLIC DOMAIN / CREATIVE COMMONS IMAGE SOURCES
     // https://www.wpclipart.com/famous/writer/Shakespheare/Shakespeare_lineart.png.html
     // http://chittagongit.com/icon/shakespeare-icon-19.html
     //
-    //
-    //
+
 
     var index = Math.floor(Math.random() * images.length);
 
