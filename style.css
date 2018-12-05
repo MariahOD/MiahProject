@@ -5,6 +5,12 @@ table, th, td {
     border: 0px;
 }
 
+@font-face {
+    font-family: "Cracked";
+    src: url("Fonts/ordeal-eroded-ffp-webfont.eot");
+    src: url("Fonts/ordeal-eroded-ffp-webfont.woff") format("woff"), url("ordeal-eroded-ffp-webfont.otf") format("opentype"), url("Fonts/ordeal-eroded-ffp-webfont.svg#filename") format("svg");
+}
+
 h1 {
     font-family: 'Cracked', Arial, sans-serif;
     font-weight: normal;
@@ -45,13 +51,6 @@ blockquote {
     font-size: 100%;
     padding: 50px;
 }
-
-@font-face {
-    font-family: "Cracked";
-    src: url("Fonts/ordeal-eroded-ffp-webfont.eot");
-    src: url("Fonts/ordeal-eroded-ffp-webfont.woff") format("woff"), url("ordeal-eroded-ffp-webfont.otf") format("opentype"), url("Fonts/ordeal-eroded-ffp-webfont.svg#filename") format("svg");
-}
-
 
 .banner {
     background-repeat: no-repeat;
