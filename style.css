@@ -103,11 +103,6 @@ blockquote {
     position: relative;
     display: inline-block;
     height: 300px;
-}
-
-.borderless:hover {
-
-    color: black;
 
 }
 
@@ -118,6 +113,10 @@ blockquote {
     color: white;
     align-content: stretch;
 }
+
+    .scene:hover {
+        background-color: darkgrey;
+    }
 
 .act {
     border: none;
@@ -137,6 +136,7 @@ blockquote {
 }
 
 
+
 .dropdown-button {
     background-color: darkred;
     color: white;
@@ -147,6 +147,8 @@ blockquote {
     cursor: pointer;
     min-width: 200px;
 }
+
+
 
 .dropdown-content {
     display: none;
