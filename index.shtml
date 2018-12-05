@@ -99,12 +99,7 @@
 
 
         <div class="footer">
-            <p><p>Posted by: Mariah bla bla</p>
-            <p>
-                Contact information: <a href="mailto:someone@example.com">
-                    odoherm2@tcd.ie
-                </a>
-            </p></p>
+                <p>Posted by: Mariah bla bla</p>
         </div>
         
 </body>
