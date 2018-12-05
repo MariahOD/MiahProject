@@ -95,6 +95,10 @@ blockquote {
     background-color: darkred;
 }
 
+.ToggleButton {
+    background-color: darkred;
+}
+
 .borderless {
     border: 0px;
     padding: 30px;
