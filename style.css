@@ -135,7 +135,7 @@ p {
 
 /*FLEX BOX*/
 .flex-container > div {
-    width: 400px;
+    width: 800px;
     text-align: center;
     font-size: 20px;
     background-color: darkred;
