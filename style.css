@@ -84,7 +84,7 @@ blockquote {
 
 .borderless {
     border: 0px;
-    padding: 20px;
+    padding: 30px;
     margin: 20px;
     background-color: darkred;
     position: relative;
@@ -94,7 +94,7 @@ blockquote {
 
 .scene {
     background-color: darkred;
-    width: 300px;
+    width: 200px;
     border: 30px;
     color: white;
 }
