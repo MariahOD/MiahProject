@@ -71,6 +71,9 @@ blockquote {
     padding: 50px;
 }
 
+.w3-button {
+    width: 150px;
+}
 
 .banner {
     background-repeat: no-repeat;
