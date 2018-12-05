@@ -47,3 +47,17 @@ function setEventListeners()
         });
     }
 }
+
+function hideBanner() {
+    var tbl = document.getElementsByClassName('banner')[0];
+
+    if (tbl.getAttribute("height") == "0") {
+        tbl.setAttribute("height", "200");
+        tbl.innerHTML = "<h1>MACBETH</h1>";
+    }
+    else {
+        tbl.setAttribute("height", "0");
+        tbl.innerHTML = "";
+    }
+
+}
