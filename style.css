@@ -148,11 +148,6 @@ blockquote {
     min-width: 200px;
 }
 
-    .dropdown-button:hover {
-        background-color: darkgrey;
-        color: black;
-    }
-
 .dropdown-content {
     display: none;
     position: absolute;
