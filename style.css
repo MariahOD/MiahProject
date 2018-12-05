@@ -64,6 +64,13 @@ b {
     padding: 60px;
 }
 
+a {
+    color: white;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 100%;
+    padding: 0px;
+}
+
 blockquote {
     color: black;
     font-family: "Lucida Console", Monaco, monospace;
