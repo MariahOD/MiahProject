@@ -15,10 +15,12 @@
     <!--#include virtual="Contents/navbar.html" -->
 
 <body style="background-color:lightgrey;">
+
     <style>
                body {
-        border: 5px solid red;
-        }</style>
+        border: 7px solid grey;
+        }
+    </style>
 
     <h3>INTRODUCTION</h3>
 
