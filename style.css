@@ -66,8 +66,8 @@ b {
 
 a {
     color: white;
-    font-family: "Lucida Console", Monaco, monospace;
     font-size: 100%;
+    text-decoration: none;
 }
 
 blockquote {
