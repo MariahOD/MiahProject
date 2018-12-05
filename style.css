@@ -107,7 +107,7 @@ blockquote {
 
 .borderless:hover {
 
-    background-color: black;
+    color: black;
 
 }
 
@@ -118,10 +118,6 @@ blockquote {
     color: white;
     align-content: stretch;
 }
-
-    .scene:hover {
-        background-color: darkgrey;
-    }
 
 .act {
     border: none;
@@ -140,7 +136,9 @@ blockquote {
     width: 100px
 }
 
-
+.dropdown-div:hover {
+    background-color: darkgrey;
+}
 
 .dropdown-button {
     background-color: darkred;
