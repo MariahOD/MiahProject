@@ -8,7 +8,7 @@ table, th, td {
 h3 {
     color: grey;
     font-family: "Lucida Console", Monaco, monospace;
-    font-size: 300%;
+    font-size: 200%;
 }
 
 p {
@@ -20,6 +20,14 @@ p {
 .banner {
     background-repeat: no-repeat;
     background-size: 150px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
 
 .borderless {
