@@ -136,9 +136,6 @@ blockquote {
     width: 100px
 }
 
-.dropdown-div:hover {
-    background-color: darkgrey;
-}
 
 .dropdown-button {
     background-color: darkred;
@@ -151,7 +148,9 @@ blockquote {
     min-width: 200px;
 }
 
-
+    .dropdown-button:hover {
+        background-color: darkgrey;
+    }
 
 .dropdown-content {
     display: none;
