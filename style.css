@@ -60,8 +60,8 @@ blockquote {
 h6 {
     color: grey;
     font-family: "Quote", Monaco, monospace;
-    font-size: 100%;
-    padding: 50px;
+    font-size: 300%;
+    padding: 20px;
 }
 
 .banner {
