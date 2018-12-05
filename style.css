@@ -6,12 +6,12 @@ table, th, td {
 }
 
 @font-face {
-    font-family: Cracked;
-    src: url(ordeal-eroded-ffp-webfont.woff);
+    font-family: "Cracked";
+    src: url(Fonts/ordeal-eroded-ffp-webfont.woff);
 }
 
 h1 {
-    font-family: Cracked, Arial, sans-serif;
+    font-family: "Cracked", Arial, sans-serif;
     font-weight: normal;
     font-style: normal;
 }
