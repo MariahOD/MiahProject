@@ -97,13 +97,13 @@ blockquote {
 
 .button {
     background-color: darkred;
-    border: none;
+    border: dashed;
     color: white;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
+    font-size: 10px;
+    margin: 2px 1px;
 }
 
 .ToggleButton {
