@@ -105,6 +105,12 @@ blockquote {
     height: 300px;
 }
 
+.borderless:hover {
+
+    background-color: black;
+
+}
+
 .scene {
     background-color: darkred;
     width: 200px;
