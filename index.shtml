@@ -17,80 +17,86 @@
 <body style="background-color:lightgrey;">
 
     <style>
-               body {
+        body {
         border: 10px solid grey;
+        }
+
+        content {
+            background-color: white;
+            margin: 80px;
+            padding: 80px;
         }
     </style>
 
     <h6>“By the pricking of my thumbs, Something wicked this way comes.” </h6>
+    <div class="content">
+        <h3>INTRODUCTION</h3>
 
-    <h3>INTRODUCTION</h3>
+        <p> Macbeth is a noble and gifted man. He chooses treachery and crime, knows them for what they are and is totally aware he is doing evil. Evil is concentrated in Macbeth and Lady Macbeth who are influenced by the Weird Sisters. The play examines the possibilities of evil and centers on the villain-hero. We find good only in secondary characters like Duncan or Malcolm. Macduff is the righteous character. Macbeth is a tyrant and Malcolm will be the good king. </p>
 
-    <p> Macbeth is a noble and gifted man. He chooses treachery and crime, knows them for what they are and is totally aware he is doing evil. Evil is concentrated in Macbeth and Lady Macbeth who are influenced by the Weird Sisters. The play examines the possibilities of evil and centers on the villain-hero. We find good only in secondary characters like Duncan or Malcolm. Macduff is the righteous character. Macbeth is a tyrant and Malcolm will be the good king. </p>
+        <p> The supernatural powers are represented by the Weird Sisters and Hecate, standing for the side of evil (disorder) and by the King of England, standing for the side of good (order). The symbolism is obvious: it is light versus darkness, angels Vs devils and heaven Vs hell. </p>
 
-    <p> The supernatural powers are represented by the Weird Sisters and Hecate, standing for the side of evil (disorder) and by the King of England, standing for the side of good (order). The symbolism is obvious: it is light versus darkness, angels Vs devils and heaven Vs hell. </p>
+        <p> The character of Macbeth is interesting because he is fully conscious of the horror of his deeds. Indeed, we learn in the beginning of his soliloquies that he knows very well what is good: in Act I, sc2, l.13, there is an enumeration of all reasons why he should not kill Duncan. Macbeth is tortured between his erected wit and his infected will. </p>
 
-    <p> The character of Macbeth is interesting because he is fully conscious of the horror of his deeds. Indeed, we learn in the beginning of his soliloquies that he knows very well what is good: in Act I, sc2, l.13, there is an enumeration of all reasons why he should not kill Duncan. Macbeth is tortured between his erected wit and his infected will. </p>
+        <p> Macbeth is the story of the temptation of a good man by witches. It is comparable to Adam and Eve with the Serpent. Lady Macbeth is the one who is really tempted. There is also a sort of philosophical issue: Macbeth is a brave soldier but a moral coward too: he is a brutal murderer feeling guilty. It is a moral dimension that does not exist in Richard III. The play is therefore more subtle since we find the presence of evil in the virtuous and of good in the wicked. It is not a manichean word: "our life is a mingled yarn, good and evil together" (All's Well that Ends Well). </p>
 
-    <p> Macbeth is the story of the temptation of a good man by witches. It is comparable to Adam and Eve with the Serpent. Lady Macbeth is the one who is really tempted. There is also a sort of philosophical issue: Macbeth is a brave soldier but a moral coward too: he is a brutal murderer feeling guilty. It is a moral dimension that does not exist in Richard III. The play is therefore more subtle since we find the presence of evil in the virtuous and of good in the wicked. It is not a manichean word: "our life is a mingled yarn, good and evil together" (All's Well that Ends Well). </p>
+        <p> The Thane of Cawdor is a traitor and he dies in I,4. But we learn that even the wicked can have virtue through repentance. It announces the other side. The fundamental moral issue is that evil is made possible because of man's free will. Moral damnation is possible because man has understanding and can make the difference between good and evil. Awareness and clairvoyance make moral judgements possible. Macbeth is perfectly aware and morally conscious. The tragedy lies all in both being aware and being courageous -it is the fate of the tragic hero.</p>
 
-    <p> The Thane of Cawdor is a traitor and he dies in I,4. But we learn that even the wicked can have virtue through repentance. It announces the other side. The fundamental moral issue is that evil is made possible because of man's free will. Moral damnation is possible because man has understanding and can make the difference between good and evil. Awareness and clairvoyance make moral judgements possible. Macbeth is perfectly aware and morally conscious. The tragedy lies all in both being aware and being courageous -it is the fate of the tragic hero.</p>
+        <p> Macbeth is not a manichean vision of man. Richard III is the villain as hero but Macbeth is the hero who becomes a villain. The emphasis is on the process of turning evil. Hence, it is fundamental that, from the start, Macbeth should be presented as a hero: "for brave Macbeth" (I, 2, 16). At first, he is a very brave soldier but he is ambitious and wants to satisfy his wife who is even more ambitious. He will seize the opportunity to get the crown. But he made a misjudgment between temporal good (crown) and eternal good (heaven). Macbeth has awareness but his judgement is weak: he is very influencable by his wife. </p>
 
-    <p> Macbeth is not a manichean vision of man. Richard III is the villain as hero but Macbeth is the hero who becomes a villain. The emphasis is on the process of turning evil. Hence, it is fundamental that, from the start, Macbeth should be presented as a hero: "for brave Macbeth" (I, 2, 16). At first, he is a very brave soldier but he is ambitious and wants to satisfy his wife who is even more ambitious. He will seize the opportunity to get the crown. But he made a misjudgment between temporal good (crown) and eternal good (heaven). Macbeth has awareness but his judgement is weak: he is very influencable by his wife. </p>
+        <p> Shakespeare decided to show the steps by which a noble man is made to his damnation, to depict a man lured by evil. The more evil Macbeth is, the more isolated he becomes. </p>
 
-    <p> Shakespeare decided to show the steps by which a noble man is made to his damnation, to depict a man lured by evil. The more evil Macbeth is, the more isolated he becomes. </p>
+        <p> Shakespeare could not show a devil at the time of the Renaissance (for it was considered as comical at that time) so he showed witches instead, who were human beings that had given their souls to the Devil). Witches are not naturally evil. They have to become evil, just like Macbeth. Like Parcae, the three sisters are weaving human destiny. They represent fate and humans who have become evil. They know the past, govern the present and can foresee the future. They appear at the beginning, announce Macbeth's rise and finally his fall: mainly at strategic moments. They only tempt Macbeth because he is ambitious and responsible. Ambition and his wife's influence will lead him to murder Duncan. Everything is motivated by fear. The ultimate evil is always a child murderer. Banquo is killed because he represented a living reproach for Macbeth: Banquo did not yield to temptation and remained loyal. It is a vicious circle for Macbeth: after murdering Duncan, he has to murder Banquo... Solitude increases with the number of crimes. </p>
 
-    <p> Shakespeare could not show a devil at the time of the Renaissance (for it was considered as comical at that time) so he showed witches instead, who were human beings that had given their souls to the Devil). Witches are not naturally evil. They have to become evil, just like Macbeth. Like Parcae, the three sisters are weaving human destiny. They represent fate and humans who have become evil. They know the past, govern the present and can foresee the future. They appear at the beginning, announce Macbeth's rise and finally his fall: mainly at strategic moments. They only tempt Macbeth because he is ambitious and responsible. Ambition and his wife's influence will lead him to murder Duncan. Everything is motivated by fear. The ultimate evil is always a child murderer. Banquo is killed because he represented a living reproach for Macbeth: Banquo did not yield to temptation and remained loyal. It is a vicious circle for Macbeth: after murdering Duncan, he has to murder Banquo... Solitude increases with the number of crimes. </p>
+        <p> The recurrent idea in Macbeth is that the more you fall into evil, the less free you are. Indeed, Macbeth has less and less choice. He has to do evil and he feels less and less guilty by doing so. Guilt was good because it showed him the difference between good and evil. Macbeth's will is infected. </p>
 
-    <p> The recurrent idea in Macbeth is that the more you fall into evil, the less free you are. Indeed, Macbeth has less and less choice. He has to do evil and he feels less and less guilty by doing so. Guilt was good because it showed him the difference between good and evil. Macbeth's will is infected. </p>
-
-    <p> Lady Macbeth is less aware of this difference between good and evil. At the end, when consciousness comes back to her, she tries to wash her hands during her sleep, just like Pontius Pilate. It is interesting to notice that sleepwalking was a sign of possession by the Devil in Shakespeare's times. <a href="https://www.skyminds.net/introduction-to-macbeth/">Source</a> </p>
-
-    <h3>TABLE OF CONTENTS</h3>
+        <p> Lady Macbeth is less aware of this difference between good and evil. At the end, when consciousness comes back to her, she tries to wash her hands during her sleep, just like Pontius Pilate. It is interesting to notice that sleepwalking was a sign of possession by the Devil in Shakespeare's times. <a href="https://www.skyminds.net/introduction-to-macbeth/">Source</a> </p>
+    </div>
+        <h3>TABLE OF CONTENTS</h3>
 
         <div class="contents-flex-container">
             <table class="borderless" align="center">
                 <tr><td class="act"><h4>ACT I</h4></td></tr>
-                <tr><td class="scene"><a href="Act1Scene1.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene I</a></td></tr>
-                <tr><td class="scene"><a href="Act1Scene2.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene II</a></td></tr>
-                <tr><td class="scene"><a href="Act1Scene3.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene III</a></td></tr>
-                <tr><td class="scene"><a href="Act1Scene4.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene IV</a></td></tr>
-                <tr><td class="scene"><a href="Act1Scene5.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene V</a></td></tr>
-                <tr><td class="scene"><a href="Act1Scene6.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene VI</a></td></tr>
-                <tr><td class="scene"><a href="Act1Scene7.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene VII</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene1.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene I</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene2.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene II</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene3.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene III</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene4.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene IV</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene5.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene V</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene6.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene VI</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene7.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene VII</a></td></tr>
             </table>
             <table class="borderless" align="center">
                 <tr><td class="act"><h4>ACT II</h4></td></tr>
-                <tr><td class="scene"><a href="Act2Scene1.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene I</a></td></tr>
-                <tr><td class="scene"><a href="Act2Scene2.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene II</a></td></tr>
-                <tr><td class="scene"><a href="Act2Scene3.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene III</a></td></tr>
-                <tr><td class="scene"><a href="Act2Scene4.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene IV</a></td></tr>
+                <tr><td class="scene"><a href="Act2Scene1.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene I</a></td></tr>
+                <tr><td class="scene"><a href="Act2Scene2.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene II</a></td></tr>
+                <tr><td class="scene"><a href="Act2Scene3.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene III</a></td></tr>
+                <tr><td class="scene"><a href="Act2Scene4.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene IV</a></td></tr>
             </table>
             <table class="borderless" align="center">
                 <tr><td class="act"><h4>ACT III</h4></td></tr>
-                <tr><td class="scene"><a href="Act3Scene1.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene I</a></td></tr>
-                <tr><td class="scene"><a href="Act3Scene2.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene II</a></td></tr>
-                <tr><td class="scene"><a href="Act3Scene3.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene III</a></td></tr>
-                <tr><td class="scene"><a href="Act3Scene4.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene IV</a></td></tr>
-                <tr><td class="scene"><a href="Act3Scene5.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene V</a></td></tr>
-                <tr><td class="scene"><a href="Act3Scene6.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene VI</a></td></tr>
+                <tr><td class="scene"><a href="Act3Scene1.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene I</a></td></tr>
+                <tr><td class="scene"><a href="Act3Scene2.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene II</a></td></tr>
+                <tr><td class="scene"><a href="Act3Scene3.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene III</a></td></tr>
+                <tr><td class="scene"><a href="Act3Scene4.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene IV</a></td></tr>
+                <tr><td class="scene"><a href="Act3Scene5.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene V</a></td></tr>
+                <tr><td class="scene"><a href="Act3Scene6.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene VI</a></td></tr>
             </table>
             <table class="borderless" align="center">
                 <tr><td class="act"><h4>ACT IV</h4></td></tr>
-                <tr><td class="scene"><a href="Act4Scene1.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene I</a></td></tr>
-                <tr><td class="scene"><a href="Act4Scene2.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene II</a></td></tr>
-                <tr><td class="scene"><a href="Act4Scene3.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene III</a></td></tr>
+                <tr><td class="scene"><a href="Act4Scene1.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene I</a></td></tr>
+                <tr><td class="scene"><a href="Act4Scene2.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene II</a></td></tr>
+                <tr><td class="scene"><a href="Act4Scene3.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene III</a></td></tr>
             </table>
             <table class="borderless" align="center">
                 <tr><td class="act"><h4>ACT V</h4></td></tr>
-                <tr><td class="scene"><a href="Act5Scene1.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene I</a></td></tr>
-                <tr><td class="scene"><a href="Act5Scene2.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene II</a></td></tr>
-                <tr><td class="scene"><a href="Act5Scene3.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene III</a></td></tr>
-                <tr><td class="scene"><a href="Act5Scene4.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene IV</a></td></tr>
-                <tr><td class="scene"><a href="Act5Scene5.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene V</a></td></tr>
-                <tr><td class="scene"><a href="Act5Scene6.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene VI</a></td></tr>
-                <tr><td class="scene"><a href="Act5Scene7.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene VII</a></td></tr>
-                <tr><td class="scene"><a href="Act5Scene8.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene VIII</a></td></tr>
+                <tr><td class="scene"><a href="Act5Scene1.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene I</a></td></tr>
+                <tr><td class="scene"><a href="Act5Scene2.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene II</a></td></tr>
+                <tr><td class="scene"><a href="Act5Scene3.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene III</a></td></tr>
+                <tr><td class="scene"><a href="Act5Scene4.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene IV</a></td></tr>
+                <tr><td class="scene"><a href="Act5Scene5.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene V</a></td></tr>
+                <tr><td class="scene"><a href="Act5Scene6.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene VI</a></td></tr>
+                <tr><td class="scene"><a href="Act5Scene7.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene VII</a></td></tr>
+                <tr><td class="scene"><a href="Act5Scene8.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene VIII</a></td></tr>
             </table>
         </div>
 
@@ -101,6 +107,6 @@
         <div class="footer">
             <p>Created by: Mariah O' Doherty</p>
         </div>
-        
+
 </body>
 </html>
