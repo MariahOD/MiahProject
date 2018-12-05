@@ -93,7 +93,8 @@ p {
     }
 
         .dropdown-content a:hover {
-            background-color: white;
+    color: white;
+
         }
 
 
