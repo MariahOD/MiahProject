@@ -39,7 +39,7 @@ h3 {
 h4 {
     color: white;
     font-family: "Cracked", Monaco, monospace;
-    font-size: 150%;
+    font-size: 100%;
     padding: 0px;
 }
 
@@ -95,7 +95,7 @@ blockquote {
 .scene {
     background-color: darkred;
     width: 200px;
-    border: none;
+    border: 30px;
     color: white;
 }
 
