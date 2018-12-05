@@ -84,23 +84,6 @@ blockquote {
     background-color:white;
 }
 
-.navbar {
-    width: 100%;
-    text-align: center;
-    font-size: 20px;
-    background-color: darkred;
-}
-
-    .navbar a {
-        float: left;
-        font-size: 16px;
-        color: white;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-    }
-
-
 .borderless {
     border: 0px;
     padding: 30px;
@@ -210,7 +193,7 @@ blockquote {
 
 /*FLEX BOX*/
 .flex-container > div {
-    width: 100%;
+    width: 500px;
     text-align: center;
     font-size: 20px;
     background-color: darkred;
