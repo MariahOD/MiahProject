@@ -2,7 +2,7 @@
 }
 
 table, th, td {
-    border: 0px;
+    border: 1px;
 }
 
 h3 {
@@ -19,7 +19,7 @@ p {
 
 .banner {
     background-repeat: no-repeat;
-    background-size: 150px;
+    background-size: 120px;
     background-color:white;
 }
 
