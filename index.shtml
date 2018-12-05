@@ -18,15 +18,15 @@
 
     <style>
 
-            body {
-                border: 10px solid grey;
-            }
+        body {
+            border: 10px solid grey;
+        }
 
-            .content {
-                background-color: white;
-                margin: 80px;
-                padding: 80px;
-            }
+        .content {
+            background-color: white;
+            margin: 80px;
+            padding: 80px;
+        }
 
 
     </style>
@@ -56,7 +56,7 @@
 
         <p> Lady Macbeth is less aware of this difference between good and evil. At the end, when consciousness comes back to her, she tries to wash her hands during her sleep, just like Pontius Pilate. It is interesting to notice that sleepwalking was a sign of possession by the Devil in Shakespeare's times. <a href="https://www.skyminds.net/introduction-to-macbeth/">Source</a> </p>
     </div>
-
+    <div class="content">
         <h3>TABLE OF CONTENTS</h3>
 
         <div class="contents-flex-container">
@@ -104,7 +104,7 @@
                 <tr><td class="scene"><a href="Act5Scene8.html" style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene VIII</a></td></tr>
             </table>
         </div>
-
+        </div>
         <iframe width="640" height="360" style="padding:10px;" src="https://www.youtube.com/embed/qfnUq2_0FOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <iframe src="https://player.vimeo.com/video/242449077?title=0&byline=0&portrait=0" width="640" height="360" style="padding:10px;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
