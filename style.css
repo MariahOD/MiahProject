@@ -87,8 +87,8 @@ p {
     background-color: darkred;
     color: white;
     padding: 10px 10px;
-    font-family: "Lucida Console", Monaco, monospace;
     font-size: 16px;
+    font-family: "Lucida Console", Monaco, monospace;
     border: none;
     cursor: pointer;
     min-width: 500px;
@@ -100,7 +100,7 @@ p {
     display: none;
     position: absolute;
     background-color: #eeeeee;
-    min-width: 200px;
+    min-width: 500px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 200;
     width: 100%
