@@ -51,14 +51,13 @@
         <div class="contents-flex-container">
             <table class="borderless" align="center">
                 <tr><td class="act"><h4>ACT I</h4></td></tr>
-                <tr><td class="scene">
-                <tr onclick="document.location='home.asp'" style="cursor:hand"></td></tr>
-                <tr><td class="scene">Scene II</td></tr>
-                <tr><td class="scene">Scene III</td></tr>
-                <tr><td class="scene">Scene IV</td></tr>
-                <tr><td class="scene">Scene V</td></tr>
-                <tr><td class="scene">Scene VI</td></tr>
-                <tr><td class="scene">Scene VII</td></tr>
+                <tr><td class="scene"><a href="Act1Scene1.html">Scene I</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene2.html">Scene II</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene3.html">Scene III</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene4.html">Scene IV</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene5.html">Scene V</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene6.html">Scene VI</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene7.html">Scene VII</a></td></tr>
             </table>
             <table class="borderless" align="center">
                 <tr><td class="act"><h4>ACT II</h4></td></tr>
@@ -98,6 +97,13 @@
         <iframe width="640" height="360" style="padding:10px;" src="https://www.youtube.com/embed/qfnUq2_0FOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <iframe src="https://player.vimeo.com/video/242449077?title=0&byline=0&portrait=0" width="640" height="360" style="padding:10px;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-
+        <footer>
+            <p>Posted by: Mariah</p>
+            <p>
+                Contact information: <a href="mailto:someone@example.com">
+                    odoherm2@tcd.ie
+                </a>.
+            </p>
+        </footer>
 </body>
 </html>

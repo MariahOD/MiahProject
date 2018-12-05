@@ -71,9 +71,6 @@ blockquote {
     padding: 50px;
 }
 
-.w3-button {
-    width: 150px;
-}
 
 .banner {
     background-repeat: no-repeat;
@@ -205,5 +202,15 @@ blockquote {
     width: 200px;
     position: relative;
     display: inline-block;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkred;
+    color: white;
+    text-align: center;
 }
 
