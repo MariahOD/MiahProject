@@ -24,9 +24,9 @@ p {
 
 
 .borderless {
-    border-bottom: 1px solid #ddd;
+    border: solid;
     padding: 50px;
-    margin: 20px;
+    margin: 0px;
     background-color: darkred;
     position: relative;
     display: inline-block;
@@ -109,7 +109,7 @@ p {
 .main {
     margin-left: 200px;
     font-size: 20px;
-    padding: 20px 10px;
+    padding: 0px 10px;
 }
 
 .active {
