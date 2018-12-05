@@ -85,8 +85,10 @@ blockquote {
 }
 
 .navbar {
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
     background-color: darkred;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
     .navbar a {
@@ -114,6 +116,7 @@ blockquote {
     width: 200px;
     border: 30px;
     color: white;
+    align-content: stretch;
 }
 
     .scene:hover {
