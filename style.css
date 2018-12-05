@@ -120,7 +120,8 @@ blockquote {
 .dropdown-div {
     position: relative;
     display: inline-block;
-    width: 100px
+    width: 100px;
+    background-color: darkred;
 }
 
 
@@ -193,7 +194,7 @@ blockquote {
 
 /*FLEX BOX*/
 .flex-container > div {
-    width: 500px;
+    width: 100%;
     text-align: center;
     font-size: 20px;
     background-color: darkred;
@@ -202,7 +203,7 @@ blockquote {
 
 .borderless-flex {
     border: none;
-    width: 200px;
+    width: 500px;
     position: relative;
     display: inline-block;
 }
