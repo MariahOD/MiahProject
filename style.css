@@ -41,7 +41,7 @@ p {
 }
 
     .scene:hover {
-        color: black;
+        background-color: darkgrey;
     }
 
 .act {
