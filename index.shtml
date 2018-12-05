@@ -18,7 +18,7 @@
 
     <style>
                body {
-        border: 15px solid grey;
+        border: 10px solid grey;
         }
     </style>
 
@@ -51,7 +51,7 @@
         <div class="contents-flex-container">
             <table class="borderless" align="center">
                 <tr><td class="act"><h4>ACT I</h4></td></tr>
-                <tr><td class="scene">Scene I</td></tr>
+                <tr><td class="scene"><a href="Act1Scene1.html"><button>Scene 1</button></a></td></tr>
                 <tr><td class="scene">Scene II</td></tr>
                 <tr><td class="scene">Scene III</td></tr>
                 <tr><td class="scene">Scene IV</td></tr>
