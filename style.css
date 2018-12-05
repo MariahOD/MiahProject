@@ -25,9 +25,9 @@ p {
 
 .borderless {
     border: solid;
-    padding: 0px;
-    margin: 0px;
-    background-color: darkcyan;
+    padding: 50px;
+    margin: 50px;
+    background-color: darkred;
     position: relative;
     display: inline-block;
     height: 250px;
@@ -41,7 +41,7 @@ p {
 }
 
     .scene:hover {
-        background-color: darkgrey;
+        background-color: grey;
     }
 
 .act {
@@ -93,7 +93,7 @@ p {
     }
 
         .dropdown-content a:hover {
-            background-color: #cccccc;
+            background-color: white;
         }
 
 
@@ -113,7 +113,7 @@ p {
 }
 
 .active {
-    background-color: green;
+    background-color: red;
     color: white;
 }
 
@@ -133,7 +133,7 @@ p {
     width: 400px;
     text-align: center;
     font-size: 20px;
-    background-color: darkcyan;
+    background-color: darkred;
 }
 
 .TopNav {
