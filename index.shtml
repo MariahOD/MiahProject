@@ -51,7 +51,7 @@
         <div class="contents-flex-container">
             <table class="borderless" align="center">
                 <tr><td class="act"><h4>ACT I</h4></td></tr>
-                <tr><td class="scene"><a href="Act1Scene1.html">Scene I</a></td></tr>
+                <tr><td class="scene"><a href="Act1Scene1.html"style="color: white; font-family: " Lucida Console", Monaco, monospace;">Scene I</a></td></tr>
                 <tr><td class="scene"><a href="Act1Scene2.html">Scene II</a></td></tr>
                 <tr><td class="scene"><a href="Act1Scene3.html">Scene III</a></td></tr>
                 <tr><td class="scene"><a href="Act1Scene4.html">Scene IV</a></td></tr>
