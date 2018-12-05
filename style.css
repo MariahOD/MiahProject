@@ -159,6 +159,7 @@ blockquote {
     padding: 10px 10px;
     font-size: 16px;
     font-family: "Lucida Console", Monaco, monospace;
+    font-size: 8px;
     border: none;
     cursor: pointer;
     min-width: 200px;
