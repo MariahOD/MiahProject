@@ -25,8 +25,8 @@ p {
 
 .borderless {
     border: solid;
-    padding: 50px;
-    margin: 0px;
+    padding: 0px;
+    margin: 20px;
     background-color: darkred;
     position: relative;
     display: inline-block;
