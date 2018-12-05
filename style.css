@@ -52,6 +52,18 @@ blockquote {
     padding: 50px;
 }
 
+@font-face {
+    font-family: "Quote";
+    src: url(Fonts/dancingscript-regular-webfont.woff);
+}
+
+h6 {
+    color: grey;
+    font-family: "Quote", Monaco, monospace;
+    font-size: 100%;
+    padding: 50px;
+}
+
 .banner {
     background-repeat: no-repeat;
     background-size: 180px;
