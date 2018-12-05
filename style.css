@@ -204,7 +204,7 @@ blockquote {
     display: inline-block;
 }
 
-footer {
+.footer {
     clear: both;
     position: relative;
     height: 40px;
