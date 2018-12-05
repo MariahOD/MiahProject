@@ -181,6 +181,7 @@ blockquote {
         padding: 10px 10px;
         text-decoration: none;
         display: block;
+        font-family: "Lucida Console", Monaco, monospace;
     }
 
         .dropdown-content a:hover {
