@@ -11,10 +11,18 @@ h1 {
     font-size: 400%;
 }
 
+h1 {
+    color: grey;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 100%;
+    padding: 40px;
+}
+
 h3 {
     color: grey;
     font-family: "Lucida Console", Monaco, monospace;
     font-size: 200%;
+    padding: 10px;
 }
 
 p {
